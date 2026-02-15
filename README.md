@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Iyan Zuli A</h1>
 
 <p align="center">
-  Fullstack Cross-Platform Web Based JavaScript Specialist Developer<br />
-  Passionate about building dynamic applications and others.
+  Fullstack | Cross-Platform | Low-level Developer<br />
+  Passionate about building applications and others.
 </p>
 
 ---
@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=javascript,typescript,rust,cpp,react,angular,svelte,astro,nodejs,express,adonis,nestjs,mysql,sqlite,postgresql,mongodb,redis,elasticsearch,graphql,tauri,docker,jest,git,github,netlify"
+      src="https://skillicons.dev/icons?i=javascript,typescript,rust,cpp,react,angular,svelte,astro,nodejs,express,adonis,nestjs,mysql,sqlite,postgresql,mongodb,redis,elasticsearch,graphql,tauri,kotlin,qt,docker,jest,git,github,netlify"
     />
   </a>
 </p>
@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=actix,kafka,qt,kotlin,githubactions,kubernetes,kali"
+      src="https://skillicons.dev/icons?i=actix,kafka,githubactions,kubernetes,kali"
     />
   </a>
 </p>
