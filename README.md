@@ -1,4 +1,4 @@
-![Header](./assets/github-header-banner.png)
+![Header](./assets/github-header-banner.webp)
 
 ---
 
@@ -29,4 +29,7 @@
 </p>
 
 ---
-![Ju Fufu](./assets/ju-fufu.gif)
+
+<div align="center">
+  <img src="./assets/ju-fufu.gif" alt="Ju Fufu">
+<div>
