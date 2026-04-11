@@ -28,4 +28,5 @@
   </a>
 </p>
 
-<img src="/assets/ju-fufu-zzz.gif" alt="Ju Fufu" />
+---
+![Ju Fufu](./assets/ju-fufu.gif)
