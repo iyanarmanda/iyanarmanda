@@ -28,4 +28,4 @@
   </a>
 </p>
 
-<img src="/assets/ju-fufu.gif" alt="Ju Fufu" />
+<img src="/assets/ju-fufu-zzz.gif" alt="Ju Fufu" />
