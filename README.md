@@ -1,9 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Iyan Zuli A</h1>
-
-<p align="center">
-  Fullstack | Cross-Platform | Low-level Developer<br />
-  Passionate about building applications and others.
-</p>
+![Header](./assets/github-header-banner.png)
 
 ---
 
@@ -19,7 +14,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=javascript,typescript,rust,cpp,react,angular,svelte,astro,nodejs,express,adonis,nestjs,mysql,sqlite,postgresql,mongodb,redis,elasticsearch,graphql,tauri,kotlin,qt,docker,jest,git,github,githubactions,netlify"
+      src="https://skillicons.dev/icons?i=javascript,typescript,rust,cpp,react,angular,svelte,astro,nodejs,express,adonis,nestjs,mysql,sqlite,postgresql,mongodb,redis,elasticsearch,graphql,tauri,kotlin,qt,docker,jest,git,github,githubactions,netlify,kali"
     />
   </a>
 </p>
@@ -28,7 +23,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=actix,kafka,kubernetes,kali"
+      src="https://skillicons.dev/icons?i=actix,kafka,kubernetes"
     />
   </a>
 </p>
+
+<img src="/assets/ju-fufu.gif" alt="Ju Fufu" />
