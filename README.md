@@ -18,14 +18,12 @@
   </a>
 </p>
 
-## Soon
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=actix,kafka,kubernetes"
-    />
-  </a>
-</p>
+### Soon
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=actix,kafka,kubernetes"
+  />
+</a>
 
 ---
 
